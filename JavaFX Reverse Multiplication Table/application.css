@@ -1,0 +1,32 @@
+.pane{
+	-fx-font-size: 250%;
+	-fx-padding: 20px;
+}
+.border {
+	-fx-font-size: 200%;
+}
+.hbox1 {
+	-fx-alignment: center;
+	-fx-font-size: 185%;
+	-fx-background-color: Silver;
+}
+.hbox2 {
+	-fx-alignment: top-center;
+	-fx-font-size: 110%;
+}
+.columns {
+	-fx-background-color: Red;
+	-fx-text-fill: Yellow;
+	-fx-alignment: center;
+	-fx-font-size: 110%;
+}
+.gridpane {
+	-fx-background-color: Black;
+	-fx-text-fill: White;
+	-fx-alignment: center;
+	-fx-font-size: 110%;
+}
+.textfield {
+	-fx-background-color: #7CFC00;
+	-fx-text-fill: Purple;
+}
