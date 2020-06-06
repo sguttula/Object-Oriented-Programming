@@ -1,0 +1,43 @@
+.start {
+	-fx-background-color: Blue;
+	-fx-alignment: center;
+	-fx-min-width: 20;
+	-fx-min-height: 20;
+	-fx-text-fill: red;
+}
+.exit {
+	-fx-background-color: Blue;
+	-fx-alignment: center;
+	-fx-min-width: 20;
+	-fx-min-height: 20; 
+	-fx-text-fill: red;
+}
+.wall {
+	-fx-border-color: Black;
+	-fx-background-color: Black;
+	-fx-min-width: 20;
+	-fx-min-height: 20;
+}
+.gridpane {
+	
+	-fx-background-color: Red;
+	-fx-border-color: Black;
+}
+.lines {
+	-fx-border-style: solid;
+}
+.footer {
+	-fx-alignment: center;
+	-fx-background-color: Silver;
+}
+.button {
+	-fx-font-size: 110%;
+}
+.title {
+	-fx-alignment: center;
+	-fx-font-size: 185%;
+	-fx-background-color: Silver;
+}
+.text {
+	-fx-text-fill: #228B22;
+}
